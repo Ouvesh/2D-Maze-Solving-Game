@@ -63,6 +63,7 @@ class Game:
         self.paused = False
         self.paused_at = None
         self.total_time = 0
+
     def draw_walls(self):
         """
 
